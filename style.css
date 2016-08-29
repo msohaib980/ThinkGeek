@@ -4,7 +4,7 @@ body {
 }
 
 body {
-    background-image: url("http://static.srcdn.com/wp-content/uploads/X-Men-First-CLass-Professor-Xavier-James-McAvoy1.jpg");
+    background-image: url("xivor.jpeg");
     background-color: #cccccc;
   background-size:cover
 }
@@ -52,10 +52,7 @@ body {
   margin: 0 auto;
   width: 80%;
   border: 0;
-  /*border-bottom: 1px solid rgba(0,0,0,.2);*/
   height: 45px;
-  /*line-height: 45px;  */
-  margin-bottom: px;
   font-size: 1em;
   color: rgb(204, 0, 0);
   transition: all ease-in-out 1s;
